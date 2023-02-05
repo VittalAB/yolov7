@@ -8,4 +8,4 @@ val:  data/val  # 5000 images
 nc: 1
 
 # class names
-names: ['vehicle']
+names: ['fire']
